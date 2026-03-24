@@ -9,6 +9,8 @@
 ```bash
 terraform version
 
+---
+
 ## Step 2: Install AWS CLI
 
 I installed the AWS CLI

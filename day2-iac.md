@@ -52,6 +52,6 @@ I installed Visual Studio Code and added the following extensions:
 
 Setting up Terraform and AWS CLI is important in learning Infrastructure as Code. Despite initial challenges with environment variables, I was able to successfully configure my environment and connect all tools together. This setup now allows me to:
 
-• Provision infrastructure using Terraform
-• Manage AWS resources from the CLI
-• Build real-world projects
+- Provision infrastructure using Terraform  
+- Manage AWS resources from the CLI  
+- Build real-world projects  

@@ -45,8 +45,8 @@ aws sts get-caller-identity
 ## Step 5: Set Up Visual Studio Code
 
 I installed Visual Studio Code and added the following extensions:
-• Terraform
-• AWS Toolkit
+- Terraform
+- AWS Toolkit
 
 ## Conclusion
 

@@ -8,7 +8,7 @@
 
 ```bash
 terraform version
-
+```
 
 ## Step 2: Install AWS CLI
 
@@ -17,19 +17,22 @@ I installed the AWS CLI.
 ### Verify installation:
 ```bash
 aws --version
+```
 
 ## Step 3: Configure AWS CLI
 
 I configured AWS CLI using my IAM user credentials.
 
-Input the following credentials :
-• AWS Access Key ID
-• AWS Secret Access Key
-• Default region: us-east-1
-• Output format: json
+### Input:
+- AWS Access Key ID  
+- AWS Secret Access Key  
+- Default region: `us-east-1`  
+- Output format: `json`  
 
+### Check configuration:
 ```bash
 aws configure list
+```
 
 ## Step 4: Verify AWS Configuration
 
@@ -37,6 +40,7 @@ Using aws sts get-caller-identity
 
 ```bash
 aws sts get-caller-identity
+```
 
 ## Step 5: Set Up Visual Studio Code
 
